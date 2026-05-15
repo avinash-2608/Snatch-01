@@ -46,6 +46,7 @@ snatch/
 - Fast frontend powered by Vite
 - REST API integration
 - Organized frontend and backend architecture
+- Database integration
 - Reusable React components
 - Environment variable support
 - Scalable project structure
@@ -139,7 +140,6 @@ node server.js
 ## Future Improvements
 
 - Authentication system
-- Database integration
 - Real-time updates
 - Deployment support
 - Improved UI/UX
